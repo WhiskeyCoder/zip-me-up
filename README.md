@@ -41,12 +41,11 @@ well... that was easy
 Built-in libraries only: os and zipfile
 No dependencies, no pip installs.
 
-##⚠️ Notes
-Doesn’t check for existing ZIPs — running it twice will overwrite without warning.
-
-Only zips folders — not individual files in the root.
-
-Files are stored with full internal folder paths — if you want flat ZIPs, a tweak is needed.
+## ⚠️ Notes
+- Doesn’t check for existing ZIPs
+- running it twice will overwrite without warning.
+- Only zips folders — not individual files in the root.
+- Files are stored with full internal folder paths — if you want flat ZIPs, a tweak is needed.
 
 ## 🧠 Why Use This?
 Because sometimes you don’t want a bloated backup solution.
