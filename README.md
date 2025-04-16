@@ -1,4 +1,4 @@
-#🗜️ Zip-Me-Up.py
+# Zip-Me-Up.py
 Bulk ZIP every folder inside a directory — one folder, one ZIP file — all in one go.
 
 Perfect for backup tasks, sending structured data, or creating archives for each sub-project inside a parent folder. Clean, simple, and done in seconds.
